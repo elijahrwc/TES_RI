@@ -1,6 +1,6 @@
 // Load in data
 clear all
-import delimited "/Users/elijahweston-capulong/Desktop/ACADEMICS/Tufts/Spring 2025/TES_RI/tes_ri_april2.csv", clear
+import delimited "/Users/elijahweston-capulong/Desktop/ACADEMICS/Tufts/Spring 2025/TES_RI/Stata_example_files/data/tes_ri_april2.csv", clear
 
 // Manually compute covariance and correlation coefficient, 
 // r = cov_xy / (sd_x * sd_y)
